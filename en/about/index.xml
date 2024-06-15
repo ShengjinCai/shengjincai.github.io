@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Shengjin Cai</title>
+    <link>https://shengjincai.github.io/en/about/</link>
+    <description>Recent content in Abouts on Shengjin Cai</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>en</language>
+    <atom:link href="https://shengjincai.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://shengjincai.github.io/en/about/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shengjincai.github.io/en/about/aboutme/</guid>
+      <description> 1 2 3 4 5 6 7 8 9 10 11 class Me: def __init__(self): self.name = &amp;#34;Shengjin Cai&amp;#34; self.English_name = &amp;#34;Chasity&amp;#34; self.birth_date = &amp;#34;2001.02.24&amp;#34; self.MBTI = &amp;#34;ENFJ&amp;#34; self.hometown = &amp;#34;Zibo, Shandong, CN&amp;#34; self.curr_location = &amp;#34;AKL, NZ&amp;#34; self.university = &amp;#34;University of Auckland, NZ&amp;#34; self.degrees = &amp;#34;Bachelor of Commerce and Bachelor of Science Conjoint Degrees&amp;#34; self.majors = &amp;#34;Finance, Business Analytics, Computer Science&amp;#34; </description>
+    </item>
+  </channel>
+</rss>
